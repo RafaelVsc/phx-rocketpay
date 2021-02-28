@@ -9,13 +9,15 @@
   <a href="#-licença">Licença</a>
 </p>
 
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
-
- <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
+    <a href="https://www.linkedin.com/in/rafael-vescio/">
+    <img alt="Made by Rafael Vescio" src="https://img.shields.io/badge/made%20by-RafaelVsc-important?color=8257E5&labelColor=000000">
+  </a>
 </p>
 
-![Código e terminal com testes](./.github/preview.png)
+![Código e terminal com testes](preview.png)
 
 ## ✨ Tecnologias
 
@@ -56,4 +58,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com :brain: por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/) 
