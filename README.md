@@ -44,7 +44,7 @@ Agora você pode acessar [`localhost:4000`](http://localhost:4000) do seu navega
 
 Pronto para colocar em produção? Dá uma olhada nos [guias de deploy](https://hexdocs.pm/phoenix/deployment.html).
 
-## ⚡️ Saiba mais
+## 💡 Saiba mais
 
 - Website oficial: [https://www.phoenixframework.org](https://www.phoenixframework.org/)
 - Guias: [https://hexdocs.pm/phoenix/overview.html](https://hexdocs.pm/phoenix/overview.html)
