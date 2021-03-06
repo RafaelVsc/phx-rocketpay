@@ -1,5 +1,5 @@
-# phx-rocketpay
-<h1 align="center">Rocketpay</h1>
+
+<h1 align="center">phx-rocketpay</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
